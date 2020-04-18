@@ -42,7 +42,7 @@ int main() {
             if (isupper(*it)) count++;
         }
         cout <<count <<endl;
-        count =0;
+        count = 0;
 	}
 	
 	return 0;
